@@ -1,0 +1,449 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	/*background-color: #CCC;*/
+	background-image: url(images/fundonovo.gif);
+	background-repeat:repeat-x;
+	cursor:auto;
+}
+
+.tela{
+/*background-color:#CCC;*/
+width: 800px;
+height: 550px;
+margin: 0 auto;	
+}
+
+.telafora{
+/*background-color:#F00;*/
+background-image: url(images/fundonovo.png);
+width: 1100px;
+height: 699px;
+margin: 0 auto;
+margin-top: 5px;
+}
+
+.telaesq{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/lado_esquerdo.png);
+width: 111px;
+height: 696px;
+margin: 0 auto;	
+float:left;
+}
+
+.teladir{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/telaesq1.gif);
+width: 111px;
+height: 696px;
+margin: 0 auto;	
+float:right;
+}
+
+.telatop{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/topo_img.png);
+width: 838px;
+height: 31px;
+margin: 0 auto;	
+float:left;
+}
+
+.telatopleft{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/time.gif);
+width: 168px;
+height: 45px;
+margin: 0 auto;
+float:left;	
+}
+
+.telatopright{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/moves.gif);
+width: 165px;
+height: 45px;
+margin: 0 auto;
+float:left;	
+}
+
+/*Movimentos Texto*/
+.moves{
+font:Arial, Helvetica, sans-serif;
+font-size:28px;
+color:	#060;
+font-style:normal;
+font-weight:bold;
+margin: 0 auto;
+padding-top: 7px;
+padding-right: 30px;
+float:right;	
+}
+
+.moves1{
+font:Arial, Helvetica, sans-serif;
+font-size:28px;
+color:	#FF0;
+font-style:normal;
+font-weight:bold;
+margin: 0 auto;
+padding-top: 7px;
+padding-right: 15px;
+float:right;	
+}
+
+.telaquadro{
+/*background-image:url(images/centro.gif);*/
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/capa.gif);
+width: 333px;
+height: 262px;
+margin: 0 auto;	
+padding-top: 5px;
+float:left;
+}
+
+.telaquadronum{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/centro.gif);
+width: 295px;
+height: 264px;
+margin: 0 auto;	
+padding-top: 10px;
+padding-left: 40px;
+float: center;
+}
+
+.telaquadroesc{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/centroesc.gif);
+width: 333px;
+height: 200px;
+margin: 0 auto;
+padding-top: 65px;	
+float: center;
+}
+
+.telaquadroesc1{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/info1.gif);
+width: 333px;
+height: 200px;
+margin: 0 auto;
+padding-top: 65px;	
+float: center;
+}
+
+
+/****** BOTÕES ***************/
+.telabotl{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/play.gif);
+width: 124px;
+height: 42px;
+margin: 0 auto;
+float:left;	
+}
+
+.telabotc{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/info.gif);
+width: 89px;
+height: 42px;
+margin: 0 auto;
+float:left;	
+}
+
+.telabotr{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/score.gif);
+width: 120px;
+height: 42px;
+margin: 0 auto;
+float:left;	
+}
+
+.telarodape{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/images/button1.gif);
+width: 333px;
+height: 61px;
+margin: 0 auto;
+float:left;
+}
+
+
+/*Paronimos Revisao*/
+.telaescolhap{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/css/images/revisao_paronimos.gif);
+width: 672px;
+height: 525px;
+margin: 0 auto;	
+}
+
+/*Fundo total da tela do jogo*/
+.telajogo{
+width: 918px;
+height: 600px;
+margin: 0 auto;	
+}
+
+/*Fundo total da div do Paiel*/
+.telajogopainel{
+width: 220px;
+height: 600px;
+float:left;	
+}
+
+.centerpainel{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/css/images/fundopainel.gif);	
+width: 200px;
+height: 525px;
+float:left;	
+}
+
+.telajogoquadro{
+/*background-image:url(images/telajogolimpa.jpg);*/
+width: 697px;
+height: 600px;
+float:left;	
+}
+
+.divjogointerno{
+background-image: url(../Projetos_Jogos/StickBamboo/puzzle/css/images/telateste.gif);
+width: 672px;
+height: 525px;
+margin: 0 auto;
+float: left;
+}
+
+.divjogointernoh{
+/*background-image:url(images/telaquadro.jpg);*/
+width: 650px;
+height: 510px;
+margin: 0 auto;
+padding-left: 20px;
+padding-top: 75px;
+padding-right: 70px;
+padding-botton: 75px;
+}
+
+
+.divlinha{
+padding:0;
+clear:both;
+}
+
+.coluna{
+height:60px;
+width:60px;
+float:left;
+border:solid;
+border-width: 1px;
+border-color: #CCC;
+}
+
+.coluna2{
+height:80px;
+width:150px;
+float:left;
+margin-left: 170px;
+}
+
+
+/************* DIV CARTAS / LINHAS *******************/
+
+.divtopo{
+width: 739px;
+height:75px;
+}
+
+.div1{
+width: 500px;
+height: 85px;
+margin: 0 auto;
+padding-right: 10px;
+}
+
+.div2{
+width: 739px;
+height: 125px;
+}
+
+.div3{
+width: 739px;
+height: 125px;
+}
+
+.div4{
+width: 739px;
+height: 125px;
+}
+
+
+/************* DIV CARTAS / COLUNAS *******************/
+
+.divC1{
+width: 150px;
+height: 80px;
+padding-left: 10PX;
+float:left;
+}
+
+.divC2{
+width: 150px;
+height: 80px;
+margin-left: 10px;
+float:left;
+}
+
+.divC3{
+width: 150px;
+height: 80px;
+margin-left: 330px;
+}
+
+.divC4{
+width: 150px;
+height: 80px;
+float: center;
+margin-left: 490px;
+}
+
+
+
+/************** Botoes ***********************/
+.divbtn{
+width: 200px;
+height: 49px;	
+margin: 0 auto;	
+padding-top: 350px;
+padding-bottom: 5px;
+float: center;
+}
+
+.divbtnsobre{
+width: 200px;
+height: 49px;	
+margin: 0 auto;	
+padding-top: 10px;
+padding-bottom: 5px;
+float: center;
+}
+
+.divbtnhom{
+width: 185px;
+height: 185px;	
+margin: 0 auto;	
+padding-top: 161px;
+padding-left: 103px;
+padding-bottom: 5px;
+float: left;
+}
+
+.divbtnpar{
+width: 185px;
+height: 185px;	
+margin: 0 auto;	
+padding-top: 161px;
+padding-right: 125px;
+padding-bottom: 5px;
+float: right;
+}
+
+.btnfechar{
+width: 185px;
+height: 185px;	
+margin: 0 auto;	
+padding-top: 460px;
+padding-left: 251px;
+padding-bottom: 5px;
+float: left;
+}
+
+/********** Tela Sobre **********/
+.divbtnsobfechar{
+width: 114px;
+height: 60px;	
+margin: 0 auto;	
+padding-top: 445px;
+padding-bottom: 5px;
+float: center;
+}
+
+/********** Tela Revisao ********/
+.divbtnrevfechar{
+width: 70px;
+height: 37px;	
+margin: 0 auto;	
+padding-top: 470px;
+}
+
+/************** Tela Jogo *****************/
+.txtc{
+width: 10px;
+height: 20px;	
+margin: 0 auto;	
+margin-top: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 90px;
+float: center;
+font:Arial, Helvetica, sans-serif;
+font-size:24px;
+font-style:normal;
+font-weight:bold;
+color:#0F0;
+}
+
+.txta{
+width: 10px;
+height: 20px;	
+margin: 0 auto;	
+margin-top: 25px;
+padding-bottom: 4px;
+padding-left: 90px;
+float: center;	
+float: center;
+font:Arial, Helvetica, sans-serif;
+font-size:24px;
+font-style:normal;
+font-weight:bold;
+color:#FF0;
+}
+
+.txte{
+width: 10px;
+height: 20px;	
+margin: 0 auto;	
+margin-top: 25px;
+padding-bottom: 4px;
+padding-left: 90px;
+float: center;	
+float: center;
+font:Arial, Helvetica, sans-serif;
+font-size:24px;
+font-style:normal;
+font-weight:bold;
+color:#900;
+}
+
+
+.btniniciar{
+width: 95px;
+height: 50px;	
+margin: 0 auto;	
+padding-top: 75px;
+padding-bottom: 5px;
+padding-left: 0px;
+float: center;
+}
+
+.btnsob{
+width: 95px;
+height: 50px;	
+margin: 0 auto;	
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 0px;
+float: center;
+}
+
+.btnsair{
+width: 95px;
+height: 50px;	
+margin: 0 auto;	
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 0px;
+float: center;
+}
