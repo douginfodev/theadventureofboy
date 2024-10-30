@@ -4,8 +4,22 @@ Neste Concept Art Document, apresentamos todo o descritivo do jogo para a criaç
 
 # 2 - CARACTERÍSTICAS GRÁFICAS DO JOGO
 
-## 2.1 - Estilo 
+### 2.1 - Estilo 
   O jogo será um jogo de plataforma todo em 2D chapado, onde o personagem estará preso em uma ilha em qualquer lugar do oceano.
 
-## 2.2 - Estilo Gráfico
+### 2.2 - Estilo Gráfico
   Neste jogo será utilizada a pintura em Pixel Art. O pixel art é uma forma de arte digital na qual as imagens são criadas ou editadas tendo como elemento básico os pixels. Elementos gráficos provenientes de sistemas computacionais antigos (ou relativamente limitados), como consoles de video games e telefones celulares seria considerados como pixelados.
+
+### 2.3 - Paleta de cores
+  A paleta de cores a ser utilizada será as cores na época da primavera, durante o dia.
+
+# 3 - PERSONAGENS PRINCIPAIS
+
+### 3.1 - PLAYER - BOY 
+ O Personagem principal do jogo é um jovem de 19 anos, chamado de Pixel Boy. Ele é um garoto extrovertido, uma pessoa bastante equilibrada mentalmente e que gosta de curtir a vida, viajando pelo mundo a bordo de seu veleiro.
+ 
+### 3.2 - BOSS - PIRACOCO
+  O chefe do jogo é um cara bem mal humorado e com uma cara de pouco amigos. Ele é chamado de Piracoco e não facilitará a vida de Pixel Boy durante toda a sua jornada.
+
+### 3.3 - NPC - PAPAGAIOCOCO
+ Este papagaio e amigo do boy e ajuda a ele nas explicações dos acontecimentos e na historia do jogo.
