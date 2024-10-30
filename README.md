@@ -23,3 +23,16 @@ Neste Concept Art Document, apresentamos todo o descritivo do jogo para a criaç
 
 ### 3.3 - NPC - PAPAGAIOCOCO
  Este papagaio e amigo do boy e ajuda a ele nas explicações dos acontecimentos e na historia do jogo.
+
+# 4 - LEVEL DESIGN
+
+### 4.1 –  Fase 1 – A praia
+
+A fase se passa na areia da praia onde terá vários coqueiros, caixas, plataformas de bambu para percorrer. Os itens a serem coletados e os inimigos tem de ser algo que lembre coisas de praia.
+ 
+ #### 4.1.1 –  InimigoS
+		O inimigo é um homem coco. Ele se chama Cocomal. 
+
+#### 4.1.2 –  Itens
+	Os itens a serem coletados ao longo da fase é a água de coco. 
+
